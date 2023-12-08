@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "654993f5684891a76102e7ac"
+  },
+  "id": 2,
+  "prd_name": "Vacuum cleaner",
+  "prd_disc": "light weight, Consumes less power",
+  "prd_code": "123",
+  "prd_cost": "7000",
+  "prd_inventory": 8
+},
+{
+  "_id": {
+    "$oid": "6549edf78d9835f1df0e4577"
+  },
+  "id": 3,
+  "prd_name": "Air Purifier",
+  "prd_disc": "Clean the air of    Allergies, Dust, Asthma, Bacteria, Pollen, Mold Spores, Pet Dander",
+  "prd_code": "12",
+  "prd_cost": "2000",
+  "prd_inventory": 0
+},
+{
+  "_id": {
+    "$oid": "6549f2b88d9835f1df0e4578"
+  },
+  "id": 4,
+  "prd_name": "table",
+  "prd_disc": "Good",
+  "prd_code": "13",
+  "prd_cost": "3000",
+  "prd_inventory": "4"
+}]

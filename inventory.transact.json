@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6549a06c684891a76102e7b3"
+  },
+  "id": 1,
+  "time": 1699324012,
+  "prd_code": "12",
+  "state": "Added",
+  "prd_name": "Air Purifier",
+  "prd_quantity": 3
+},
+{
+  "_id": {
+    "$oid": "6549a0ca684891a76102e7b4"
+  },
+  "id": 2,
+  "time": 1699324106,
+  "prd_code": "12",
+  "state": "Added",
+  "prd_name": "Air Purifier",
+  "prd_quantity": 2
+},
+{
+  "_id": {
+    "$oid": "6549a0e7684891a76102e7b5"
+  },
+  "id": 3,
+  "time": 1699324135,
+  "prd_code": "123",
+  "state": "Added",
+  "prd_name": "Vacuum cleaner",
+  "prd_quantity": 5
+},
+{
+  "_id": {
+    "$oid": "6549a141684891a76102e7b6"
+  },
+  "id": 4,
+  "time": 1699324225,
+  "prd_code": "123",
+  "state": "Added",
+  "prd_name": "Vacuum cleaner",
+  "prd_quantity": 2
+},
+{
+  "_id": {
+    "$oid": "6549a574684891a76102e7b7"
+  },
+  "id": 5,
+  "time": 1699325300,
+  "prd_code": "12",
+  "state": "Removed",
+  "prd_name": "Air Purifier",
+  "prd_quantity": 1
+},
+{
+  "_id": {
+    "$oid": "6549a579684891a76102e7b8"
+  },
+  "id": 6,
+  "time": 1699325305,
+  "prd_code": "12",
+  "state": "Removed",
+  "prd_name": "Air Purifier",
+  "prd_quantity": 1
+},
+{
+  "_id": {
+    "$oid": "6549cd37684891a76102e7b9"
+  },
+  "id": 7,
+  "time": 1699335479,
+  "prd_code": "12",
+  "state": "Removed",
+  "prd_name": "Air Purifier",
+  "prd_quantity": 1
+},
+{
+  "_id": {
+    "$oid": "6549cd3c684891a76102e7ba"
+  },
+  "id": 8,
+  "time": 1699335484,
+  "prd_code": "12",
+  "state": "Removed",
+  "prd_name": "Air Purifier",
+  "prd_quantity": 1
+},
+{
+  "_id": {
+    "$oid": "6549cd74684891a76102e7bb"
+  },
+  "id": 9,
+  "time": 1699335540,
+  "prd_code": "123",
+  "state": "Added",
+  "prd_name": "Vacuum cleaner",
+  "prd_quantity": 1
+},
+{
+  "_id": {
+    "$oid": "6549f2c98d9835f1df0e4579"
+  },
+  "id": 10,
+  "time": 1699345097,
+  "prd_code": "13",
+  "state": "Added",
+  "prd_name": "table",
+  "prd_quantity": 1
+}]
